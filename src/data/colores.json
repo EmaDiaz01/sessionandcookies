@@ -1,0 +1,17 @@
+[
+    {
+        "nombre" : "verde claro",
+        "tonalidad" : "rgb(214,246,221)"
+    },
+    
+    {
+        "nombre" : "azul cremoso",
+        "tonalidad" : "rgb(172,236,247)"  
+    },
+    {
+        "nombre" : "rojo",
+        "tonalidad" : "#e74c3c"  
+    }
+
+]
+
